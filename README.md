@@ -42,14 +42,15 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
     />
-    <img 
-        align="left" 
-        alt="GameMaker" 
-        title="GameMaker"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemaker/gamemaker-original.svg" 
-    />
+<img 
+    align="left" 
+    alt="GameMaker" 
+    title="GameMaker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/0a/GameMaker_Logo.png" 
+/>
+
 <img 
     align="left" 
     alt="HTML"
