@@ -44,15 +44,6 @@
     />
 <img 
     align="left" 
-    alt="GameMaker" 
-    title="GameMaker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/G/gamemaker-studio-logo-0F38815476-seeklogo.com.png"
-/>
-
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
