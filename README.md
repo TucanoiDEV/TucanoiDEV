@@ -48,8 +48,9 @@
     title="GameMaker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://gamemaker.io/sites/default/files/2023-10/favicon-32x32.png"
+    src="https://seeklogo.com/images/G/gamemaker-studio-logo-0F38815476-seeklogo.com.png"
 />
+
 <img 
     align="left" 
     alt="HTML"
