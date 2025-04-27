@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Rodrigo Henrique, but my friends call me Tucano ;)
 
 <!--
 **TucanoiDEV/TucanoiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
