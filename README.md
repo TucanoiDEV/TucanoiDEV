@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love games and in the future I intend to be a game developer
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TucanoiDEV=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTucanoiDEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
