@@ -48,8 +48,9 @@
     title="GameMaker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/0a/GameMaker_Logo.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemaker/gamemaker-original.svg" 
 />
+
 
 <img 
     align="left" 
