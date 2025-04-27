@@ -48,10 +48,8 @@
     title="GameMaker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemaker/gamemaker-original.svg" 
+    src="https://gamemaker.io/sites/default/files/2023-10/favicon-32x32.png"
 />
-
-
 <img 
     align="left" 
     alt="HTML"
