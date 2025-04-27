@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Rodrigo Henrique, but my friends call me Tucano ;)
 
-<!--
-**TucanoiDEV/TucanoiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am a Systems Development professor at SEDUC
 - 🌱 Studying C++ and C#
 - 🤔 I’m looking for help with Unity eand Unreal engines
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love games and in the future I intend to be a game developer
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTucanoiDEVanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
