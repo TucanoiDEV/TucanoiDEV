@@ -88,6 +88,15 @@
 
 ### 📊 Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TucanoiDEV)](https://github.com/TucanoiDEV/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=dracula" alt="Anurag's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
