@@ -94,7 +94,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=dracula" alt="Anurag's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=dracula&count_weight=0.5" alt="Top Langs"/>
     </td>
   </tr>
 </table>
