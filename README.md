@@ -86,17 +86,12 @@
 <br/>
 <br/>
 
-### 📊 Statistics
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=dracula" alt="Anurag's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=dracula&count_weight=0.5" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&count_private=true&hide_border=true&title_color=83e509&icon_color=83e509&text_color=c9d1d9&bg_color=0d1117" alt="TucanoiDEV github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&hide_border=true&title_color=83e509&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
