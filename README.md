@@ -3,7 +3,7 @@
 - 🔭 I am a Systems Development professor at SEDUC
 - 🌱 Studying C++ and C#
 - 🤔 I’m looking for help with Unity eand Unreal engines
-- 📫 How to reach me: My email: tucanogithub@gmail.com
+- 📫 My email: tucanogithub@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love games and in the future I intend to be a game developer
 -->
