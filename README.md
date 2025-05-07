@@ -96,9 +96,8 @@
 
 <br/>
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmaDgxb2RxNWl3M2p1Nng2cGVoc2RxZHJsbjRmZDlhbWN0NGIzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="35"><b> Visit Counter </b>
 <br>
 
 <div align="center">
-<br><p align="center"><b>Contador de Visitas</b></p>  
+<br><p align="center"><b><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmaDgxb2RxNWl3M2p1Nng2cGVoc2RxZHJsbjRmZDlhbWN0NGIzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="35"><b> Visit Counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TucanoiDEV}/count.svg"/></p> 
