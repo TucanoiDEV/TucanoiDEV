@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love games and in the future I intend to be a game developer
 -->
 
-### 🤖 Languages and Technologies:
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
