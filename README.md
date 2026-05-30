@@ -26,7 +26,7 @@
 ```cpp
 class Developer {
 public:
-    std::string name     = "Seu Nome";
+    std::string name     = "TucanoiDEV";
     std::string role     = "Game Developer";
     std::string location = "Brasil 🇧🇷";
 
@@ -58,16 +58,16 @@ public:
 
 ## 🚀 Projetos em destaque
 
-### 🔥 [Nome do Projeto 1](https://github.com/TucanoiDEV/projeto1)
-> Breve descrição do que o projeto faz. Desenvolvido em **Unreal Engine 5** com C++.
+### 🔥 [The 7 Gateways To Sin](https://github.com/TucanoiDEV/secret)
+> Vem aí....
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🎯 [Nome do Projeto 2](https://github.com/TucanoiDEV/projeto2)
-> Breve descrição do que o projeto faz. Desenvolvido em **Unity** com C#.
+### 🎯 [Frogger](https://github.com/TucanoiDEV/Frogger)
+> Reimaginação do clássico jogo Frogger.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -78,9 +78,9 @@ public:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-git-master-denvercoder1.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats-git-master-denvercoder1.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
