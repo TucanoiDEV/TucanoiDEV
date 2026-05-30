@@ -1,103 +1,156 @@
-## Hi there 👋 I'm Rodrigo Henrique, but my friends call me Tucano ;)
+<div align="center">
 
-- 🔭 I am a Systems Development professor at SEDUC
-- 🌱 Studying C++ and C#
-- 🤔 I’m looking for help with Unity eand Unreal engines
-- 📫 My email: tucanogithub@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love games and in the future I intend to be a game developer
--->
+# ⚔️ Seja bem-vindo ao meu perfil!
 
-### 🤖 Languages and Technologies
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Unreal+Engine+%7C+Unity;C%2B%2B+%7C+C%23;Building+worlds%2C+one+frame+at+a+time" alt="Typing SVG" />
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-        align="left" 
-        alt="C#" 
-        title="C#"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Unreal Engine" 
-        title="Unreal Engine"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Unity" 
-        title="Unity"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&count_private=true&hide_border=true&title_color=83e509&icon_color=83e509&text_color=c9d1d9&bg_color=0d1117" alt="TucanoiDEV github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&hide_border=true&title_color=83e509&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<br/>
+---
 
-<br>
+## 🧰 Tech Stack
 
 <div align="center">
-<br><p align="center"><b><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmaDgxb2RxNWl3M2p1Nng2cGVoc2RxZHJsbjRmZDlhbWN0NGIzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="35"><b> Visit Counter</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TucanoiDEV}/count.svg"/></p> 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 Sobre mim
+
+```cpp
+class Developer {
+public:
+    std::string name     = "Seu Nome";
+    std::string role     = "Game Developer";
+    std::string location = "Brasil 🇧🇷";
+
+    std::vector<std::string> engines = {
+        "Unreal Engine 5",
+        "Unity"
+    };
+
+    std::vector<std::string> languages = {
+        "C++", "C#", "Blueprints (UE5)"
+    };
+
+    std::string currentFocus() {
+        return "Criando experiências imersivas 🚀";
+    }
+};
+```
+
+---
+
+## ⚙️ O que eu faço
+
+| Motor | Linguagem | Especialidade |
+|-------|-----------|--------------|
+| 🎮 Unreal Engine | C++ / Blueprints | AAA Games, Renderização realista |
+| 🕹️ Unity | C# | Mobile, Indie, Protótipos rápidos |
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔥 [Nome do Projeto 1](https://github.com/TucanoiDEV/projeto1)
+> Breve descrição do que o projeto faz. Desenvolvido em **Unreal Engine 5** com C++.
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+### 🎯 [Nome do Projeto 2](https://github.com/TucanoiDEV/projeto2)
+> Breve descrição do que o projeto faz. Desenvolvido em **Unity** com C#.
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TucanoiDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TucanoiDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🧪 Exemplos de código
+
+### C++ — Unreal Engine: Movimento de personagem
+```cpp
+void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{
+    Super::SetupPlayerInputComponent(PlayerInputComponent);
+
+    PlayerInputComponent->BindAxis("MoveForward", this, &AMyCharacter::MoveForward);
+    PlayerInputComponent->BindAxis("MoveRight",   this, &AMyCharacter::MoveRight);
+    PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+}
+
+void AMyCharacter::MoveForward(float Value)
+{
+    if (Controller && Value != 0.f)
+    {
+        const FRotator Rotation = Controller->GetControlRotation();
+        const FVector  Direction = FRotationMatrix(Rotation).GetUnitAxis(EAxis::X);
+        AddMovementInput(Direction, Value);
+    }
+}
+```
+
+### C# — Unity: Sistema de saúde simples
+```csharp
+public class HealthSystem : MonoBehaviour
+{
+    [SerializeField] private float maxHealth = 100f;
+    private float currentHealth;
+
+    void Start() => currentHealth = maxHealth;
+
+    public void TakeDamage(float damage)
+    {
+        currentHealth = Mathf.Max(currentHealth - damage, 0f);
+        if (currentHealth <= 0f) Die();
+    }
+
+    public void Heal(float amount) =>
+        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+
+    private void Die() => Debug.Log($"{gameObject.name} foi derrotado!");
+}
+```
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TucanoiDEV)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://seusite.com)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://TucanoiDEV.itch.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Os melhores jogos são aqueles que fazem o jogador esquecer que está jogando."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=TucanoiDEV&color=00D9FF&style=flat-square)
+
+</div>
