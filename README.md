@@ -149,7 +149,12 @@ public class HealthSystem : MonoBehaviour
 
 <div align="center">
 
-*"Os melhores jogos são aqueles que fazem o jogador esquecer que está jogando."*
+## Github status:
+
+<br>
+<a href="https://github.com/heitorviana-dev/convoychat">
+ <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=TucanoiDEV&theme=dark&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+</a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TucanoiDEV&color=00D9FF&style=flat-square)
 
