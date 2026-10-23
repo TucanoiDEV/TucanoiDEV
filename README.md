@@ -11,54 +11,6 @@
 
 ---
 
-## 🧪 Exemplos de código
-
-### C++ — Unreal Engine: Movimento de personagem
-```cpp
-void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
-{
-    Super::SetupPlayerInputComponent(PlayerInputComponent);
-
-    PlayerInputComponent->BindAxis("MoveForward", this, &AMyCharacter::MoveForward);
-    PlayerInputComponent->BindAxis("MoveRight",   this, &AMyCharacter::MoveRight);
-    PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
-}
-
-void AMyCharacter::MoveForward(float Value)
-{
-    if (Controller && Value != 0.f)
-    {
-        const FRotator Rotation = Controller->GetControlRotation();
-        const FVector  Direction = FRotationMatrix(Rotation).GetUnitAxis(EAxis::X);
-        AddMovementInput(Direction, Value);
-    }
-}
-```
-
-### C# — Unity: Sistema de saúde simples
-```csharp
-public class HealthSystem : MonoBehaviour
-{
-    [SerializeField] private float maxHealth = 100f;
-    private float currentHealth;
-
-    void Start() => currentHealth = maxHealth;
-
-    public void TakeDamage(float damage)
-    {
-        currentHealth = Mathf.Max(currentHealth - damage, 0f);
-        if (currentHealth <= 0f) Die();
-    }
-
-    public void Heal(float amount) =>
-        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
-
-    private void Die() => Debug.Log($"{gameObject.name} foi derrotado!");
-}
-```
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
